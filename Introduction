@@ -1,0 +1,22 @@
+Prediction of car accidents severity
+Jorge Méndez Astudillo
+1.	Introduction
+There are many factors causing car accidents such as weather conditions, human factors and human error, and technical problems.  
+Examples of weather conditions are rain and snow. For instance, a lot or rain decreases visibility and makes the road slippery therefore, extra care is needed when driving in this condition. 
+Also, snow makes the driving conditions difficult.  
+Human factors such as distractions, driving under the influence of alcohol and drugs, tiredness or medical conditions can be the cause of accidents. 
+Furthermore, human error can cause accidents. Finally, technical problems of the car such as blown tires can be a cause of accidents. 
+1.1 Objective
+The objective of this project is to build a model to predict car accident severity based on weather conditions. 
+This will allow drivers to decide their best route and the level of alertness needed to drive safely. 
+A data-driven model will be constructed and presented in this report. 
+1.2 Dataset:
+The data has been collected in Seattle, Washington from 2004 to present. T
+he Dataset is provided by Seattle Department of Transportation (SDOT) Traffic Management Division. 
+It contains data from collisions registered in Seattle. 
+The dataset includes the location of the accident (Latitude and Longitude), severity of the accident, 
+collision address type, type of collision, whether pedestrians were involved, number of vehicles involved in the collision, 
+number of injuries, number of fatalities, whether the collision was due to inattention, whether the driver was under the influence of drugs or alcohol,
+weather conditions during the time of collision as well as road and light conditions during the accident. 
+This dataset has been chosen because of the climate in Seattle includes cold wet winters and warm dry summers, there are rarely temperatures below 0 ºC.ç
+Therefore, snow is not a common occurrence. 
